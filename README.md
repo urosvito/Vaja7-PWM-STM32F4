@@ -20,5 +20,5 @@ a)1.  Nastavi PWM generacijo na spremenjlivko dutyCycle
 
   2. dutyCycle se poveča za 10
 
-  3. Ko je dutyCycle večje od 90 se nastavi nazaj na 10 in se ponavlja
+  3. Ko je dutyCycle večji od 90 se nastavi nazaj na 10 in se ponavlja
 
