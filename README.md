@@ -16,5 +16,9 @@ b)uint16_t dutyCycle = 10;
 
 5. DODATNE NASTAVITEV KODE V PROGRAMU IDE:
 
-a) 
+a)1.  Nastavi PWM generacijo na spremenjlivko dutyCycle
+
+  2. dutyCycle se poveča za 10
+
+  3. Ko je dutyCycle večje od 90 se nastavi nazaj na 10 in se ponavlja
 
